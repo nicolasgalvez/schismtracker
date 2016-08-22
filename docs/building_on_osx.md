@@ -2,7 +2,7 @@
 
 Building on Mac OS X is fairly straightforward once you've installed the Apple
 Developer's kit. If you have [Homebrew](http://brew.sh/) available, you should
-be able to install SDL with a simple `brew install sdl`, after which you can
+be able to install SDL with a simple `brew install sdl` and possibly `brew install automake`, after which you can
 mostly follow the Linux instructions and you'll end up with a unix-style
 `schismtracker` binary that you can run from `Terminal.app`.
 
